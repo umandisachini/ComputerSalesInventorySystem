@@ -34,6 +34,11 @@ user
 user: test
 pass: test
 
-
-****** https://www.campcodes.com ******
-Subscribe to our Youtube Channel **** SerBermz ****
+**Final project LOGIN DETAILS** 
+Admin 
+Username: admin 
+Password: admin 
+ 
+User 
+Username: mncpdrnl 
+Password: 12345 
